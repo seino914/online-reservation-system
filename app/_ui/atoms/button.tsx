@@ -1,6 +1,6 @@
 import clsx from "clsx";
 import React from "react";
-import { Color, Rounded, Size } from "..";
+import { Color, Rounded, Size } from "../index";
 
 export interface Props {
   // プロパティを属性はなるべくbuttonの属性に合わせる
